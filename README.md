@@ -1,6 +1,6 @@
-# GuidanceTutorial-Database
+# GuidanceTutorial Database
 
-guidancetutorialdb is designed for [GuidanceTutorial](https://mivanrais.github.io/GuidanceTutorial/) website.
+GuidanceTutorial Database is designed for [GuidanceTutorial](https://mivanrais.github.io/GuidanceTutorial/) website.
 
 Before I jump right into create the database, I have created conceptual ERDs in [draw.io](https://drive.google.com/file/d/1vfj7gMhZZVeaAc4VI-5JWotGg2pjtgqS/view?usp=sharing) 
 
